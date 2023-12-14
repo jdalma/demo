@@ -1,0 +1,8 @@
+translate:
+  tmp: test
+  v4:
+    ip: 1.1.1.1
+    port: 1000
+  v5:
+    ip: 1.1.1.2
+    port: 2000
